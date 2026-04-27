@@ -1,0 +1,88 @@
+{
+  "novels": [
+    {
+      "authorId": "1",
+      "authorName": "書蟲旅行者",
+      "title": "測試",
+      "description": "111",
+      "tag": "奇幻",
+      "chapterTitle": "222",
+      "content": "222",
+      "coverImage": null,
+      "likes": 0,
+      "views": 0,
+      "id": "1777283740712",
+      "chapters": [
+        {
+          "id": "legacy-1",
+          "title": "222",
+          "content": "222",
+          "status": "published",
+          "wordCount": 3,
+          "chapterComments": [
+            {
+              "id": "1777284666485",
+              "text": "你好",
+              "username": "書蟲旅行者",
+              "createdAt": "2026-04-27T10:11:06.485Z"
+            }
+          ]
+        },
+        {
+          "id": "1777283921882",
+          "title": "3333",
+          "content": "",
+          "status": "draft",
+          "wordCount": 0,
+          "updatedAt": "2026-04-27T09:58:41.882Z"
+        },
+        {
+          "id": "1777283930132",
+          "title": "44444",
+          "content": "",
+          "status": "draft",
+          "wordCount": 0,
+          "updatedAt": "2026-04-27T09:58:50.132Z"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "書蟲旅行者",
+      "password": "123",
+      "vipStatus": "VIP 尊享會員",
+      "joinDate": "2025-10-01",
+      "stats": {
+        "readingTime": "128 小時",
+        "booksRead": "45 本",
+        "bookmarks": "12 本",
+        "coins": "1,200"
+      },
+      "bookmarks": [
+        "1777283740712"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "title": "星空下的魔法使 (第 1 卷)",
+      "progress": "第 42 章 - 魔法的代價 (85%)",
+      "lastRead": "2 小時前"
+    },
+    {
+      "id": 2,
+      "title": "異世界奇幻冒險",
+      "progress": "第 10 章 (20%)",
+      "lastRead": "昨天"
+    },
+    {
+      "id": 3,
+      "title": "被遺忘的圖書館",
+      "progress": "第 5 章 (10%)",
+      "lastRead": "3 天前"
+    }
+  ]
+}
